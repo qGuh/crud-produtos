@@ -1,8 +1,6 @@
 
 CRUD Produtos
 
-Projeto básico usando Node.js com Prisma e SQLite.
-
 Como usar:
 
 1. Instala as dependências:
